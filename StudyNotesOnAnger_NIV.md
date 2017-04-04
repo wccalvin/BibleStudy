@@ -375,8 +375,7 @@
 * [Matthew 18:21-35](https://www.biblegateway.com/passage/?search=Matthew18%3A21-35&version=NIV)
 * [Ephesians 4:32](https://www.biblegateway.com/passage/?search=Ephesians4%3A32&version=NIV)
 * [Colossians 3:13](https://www.biblegateway.com/passage/?search=Colossians3%3A13&version=NIV)
-* [I John 2:9-11; 3:14-16; 4:7-11,
-* 20-21](https://www.biblegateway.com/passage/?search=IJohn2%3A9-11;3%3A14-16;4%3A7-11%2C20-21&version=NIV)
+* [I John 2:9-11; 3:14-16; 4:7-11, 20-21](https://www.biblegateway.com/passage/?search=IJohn2%3A9-11;3%3A14-16;4%3A7-11%2C20-21&version=NIV)
 * [Matthew 22:37-39](https://www.biblegateway.com/passage/?search=Matthew22%3A37-39&version=NIV)
 * [Luke 9:23-24](https://www.biblegateway.com/passage/?search=Luke9%3A23-24&version=NIV)
 * [II Corinthians 5:9, 15; 10:5](https://www.biblegateway.com/passage/?search=IICorinthians5%3A9%2C15;10%3A5&version=NIV)
@@ -415,8 +414,7 @@
 * [I Peter 2:1](https://www.biblegateway.com/passage/?search=IPeter2%3A1&version=NIV)
 * [Ephesians 4:15, 25, 29](https://www.biblegateway.com/passage/?search=Ephesians4%3A15%2C25%2C29&version=NIV)
 * [Colossians 4:6](https://www.biblegateway.com/passage/?search=Colossians4%3A6&version=NIV)
-* [Proverbs 10:18, 17:9,
-* 20:19](https://www.biblegateway.com/passage/?search=Proverbs10%3A18%2C17%3A9%2C20%3A19&version=NIV)
+* [Proverbs 10:18, 17:9, 20:19](https://www.biblegateway.com/passage/?search=Proverbs10%3A18%2C17%3A9%2C20%3A19&version=NIV)
 * [Ephesians 4:29, 31](https://www.biblegateway.com/passage/?search=Ephesians4%3A29%2C31&version=NIV)
 * [Colossians 3:8](https://www.biblegateway.com/passage/?search=Colossians3%3A8&version=NIV)
 * [I Peter 2:1](https://www.biblegateway.com/passage/?search=IPeter2%3A1&version=NIV)
@@ -444,8 +442,7 @@
 * [I Peter 5:8-9](https://www.biblegateway.com/passage/?search=IPeter5%3A8-9&version=NIV)
 * [Matthew 5:23-24](https://www.biblegateway.com/passage/?search=Matthew5%3A23-24&version=NIV)
 * [Matthew 7:12](https://www.biblegateway.com/passage/?search=Matthew7%3A12&version=NIV)
-* [Romans 12:9-13, 15-16;
-* 13:8-10](https://www.biblegateway.com/passage/?search=Romans12%3A9-13%2C15-16;13%3A8-10&version=NIV)
+* [Romans 12:9-13, 15-16; 13:8-10](https://www.biblegateway.com/passage/?search=Romans12%3A9-13%2C15-16;13%3A8-10&version=NIV)
 * [I Corinthians 13:4-8](https://www.biblegateway.com/passage/?search=ICorinthians13%3A4-8&version=NIV)
 * [Philippians 2:3-8](https://www.biblegateway.com/passage/?search=Philippians2%3A3-8&version=NIV)
 * [I Timothy 6:17-19](https://www.biblegateway.com/passage/?search=ITimothy6%3A17-19&version=NIV)
@@ -519,8 +516,7 @@
 * [I Samuel 16:7](https://www.biblegateway.com/passage/?search=ISamuel16%3A7&version=NIV)
 * [Jeremiah 17:9](https://www.biblegateway.com/passage/?search=Jeremiah17%3A9&version=NIV)
 * [Matthew 12:36-37](https://www.biblegateway.com/passage/?search=Matthew12%3A36-37&version=NIV)
-* [Matthew 7:1-5, 12:34-37,
-* 15:19](https://www.biblegateway.com/passage/?search=Matthew7%3A1-5%2C12%3A34-37%2C15%3A19&version=NIV)
+* [Matthew 7:1-5, 12:34-37, 15:19](https://www.biblegateway.com/passage/?search=Matthew7%3A1-5%2C12%3A34-37%2C15%3A19&version=NIV)
 * [I Corinthians 11:31](https://www.biblegateway.com/passage/?search=ICorinthians11%3A31&version=NIV)
 * [Job 42:5-6](https://www.biblegateway.com/passage/?search=Job42%3A5-6&version=NIV)
 * [Colossians 3:8-10](https://www.biblegateway.com/passage/?search=Colossians3%3A8-10&version=NIV)
